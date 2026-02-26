@@ -1,6 +1,12 @@
 {
   "name": "run-script",
   "displayName": "run-script",
+   "publisher": "virious",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViriousCode/run-script-plugin.git"
+  },
+  "license": "MIT",
   "description": "",
   "version": "0.0.1",
   "engines": {
